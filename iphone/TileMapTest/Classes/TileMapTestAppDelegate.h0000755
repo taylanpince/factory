@@ -1,0 +1,17 @@
+//
+//  TileMapTestAppDelegate.h
+//  TileMapTest
+//
+//  Created by Taylan Pince on 10/08/09.
+//  Copyright Hippo Foundry 2009. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface TileMapTestAppDelegate : NSObject <UIApplicationDelegate> {
+	UIWindow *window;
+}
+
+@property (nonatomic, retain) UIWindow *window;
+
+@end

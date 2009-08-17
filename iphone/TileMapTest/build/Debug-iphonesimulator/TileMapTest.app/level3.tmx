@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="12" height="12" tilewidth="40" tileheight="40">
+ <tileset name="Sprites" firstgid="1" tilewidth="40" tileheight="40" spacing="2" margin="2">
+  <image source="sprites.png" trans="ff00ff"/>
+ </tileset>
+ <layer name="Background" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNgYGB4zQABJxmIA8eBmIeRgeElkD5BpJ5RMDwBAE9QagNAAgAA
+  </data>
+ </layer>
+ <layer name="Level" width="12" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNgwA74GBkYpqLx8YGfQCyEpIaQenR5XOo5gRgkFQjEhkD8EIhN8ajnZ0Q1zxMq/hGHO+5AaW409QKMqPY3QulUNPoglAZhViD+DNX/DQc93AAAp0Vpt0ACAAA=
+  </data>
+ </layer>
+</map>
